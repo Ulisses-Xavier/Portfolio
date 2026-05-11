@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152249207467",
+    "project_id": "ulisses-xavier",
+    "storage_bucket": "ulisses-xavier.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152249207467:android:a7beddcb7b6fde009185ee",
+        "android_client_info": {
+          "package_name": "com.example.portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU0f1_rH1-rWfCf1fwsrZJRsKTn62mljc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
