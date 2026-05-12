@@ -1,3 +1,5 @@
+<img width="900" height="250" alt="Xavier’s (2)" src="https://github.com/user-attachments/assets/93556c4c-2529-4c51-9ee7-f3c3df635290" />
+<img width="900" height="250" alt="Xavier’s (2)" src="https://github.com/user-attachments/assets/2fd0ebb5-0cc2-41a8-be0a-5e0dec0fd84e" />
 # Portfolio Pessoal
 
 Portfólio responsivo desenvolvido com Flutter Web para apresentar projetos, habilidades técnicas e experiência profissional através de uma interface moderna, animações suaves e arquitetura organizada.
@@ -26,6 +28,7 @@ Website: https://ulisses-xavier.web.app/#/about
 
 ## Screenshots
 <img width="1919" height="938" alt="Captura de tela 2026-05-11 135834" src="https://github.com/user-attachments/assets/303c9ea6-95df-41bd-a8ab-d3f04d38c6c1" />
+<img width="900" height="250" alt="Xavier’s (2)" src="https://github.com/user-attachments/assets/1abf69cb-3266-4027-88ee-3c1bd5c1d2bf" />
 
 ## Autor
 
